@@ -1,4 +1,4 @@
-# Hi!
+# Hi, this is my github portfolio!
 # DATA ENGINEER, BPP LEVEL 6 DATA SCIENCE STUDENT
 ## BPP PROJECTS:
 - **Data Science Professional Practice**: https://bpp0322151.github.io/dspp4/
