@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi!
+# DATA ENGINEER, BPP LEVEL 6 DATA SCIENCE STUDENT
+
+---
+
+## BPP PROJECTS:
+---
+- **Data Science Professional Practice**: https://bpp0322151.github.io/dspp4/
 
 <!--
 **BPP0322151/BPP0322151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
