@@ -3,7 +3,7 @@
 
 
 ## My Projects:
-[Data Science Professional Practice (Student Performance Prediction]([https://bpp0322151.github.io/dspp4/])
+[Data Science Professional Practice (Student Performance Prediction)](https://bpp0322151.github.io/dspp4/)
 
 ## About me
 
