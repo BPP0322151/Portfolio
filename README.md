@@ -1,7 +1,21 @@
-# Hi, welcome to my github portfolio!
-# DATA ENGINEER, BPP LEVEL 6 DATA SCIENCE STUDENT
-## BPP PROJECTS:
-- **Data Science Professional Practice (Student Performance Prediction)**: https://bpp0322151.github.io/dspp4/
+# BPP Student: BP0322151
+## DATA ENGINEER, BPP LEVEL 6 DATA SCIENCE STUDENT
+
+
+## My Projects:
+[Data Science Professional Practice (Student Performance Prediction]([URL](https://bpp0322151.github.io/dspp4/))
+
+## About me
+
+I am a Data Engineer with over 4 years in the data analytics field. I am currenlty undertaking a Level 6 Data Science degree apprenticeship with BPP to further enhance and upskill, building upon my Level 4 data analyst qualification.
+
+## My top skills
+
+- Problem solving
+- Python
+- Power BI
+- SQL
+- Excel
 
 <!--
 **BPP0322151/BPP0322151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
